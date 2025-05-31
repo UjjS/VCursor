@@ -45,4 +45,4 @@ with col1:
         "theme": "vs-dark",
     }
 
-    result = code_editor(content, height=400, key="code_
+    result = code_editor(content, height=400, key="code_editor")
